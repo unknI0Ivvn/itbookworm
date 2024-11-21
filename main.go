@@ -1,5 +1,0 @@
-package itbookworm
-
-func main() {
-
-}
